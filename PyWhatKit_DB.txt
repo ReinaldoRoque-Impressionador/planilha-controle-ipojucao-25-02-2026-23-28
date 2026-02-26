@@ -1,0 +1,35 @@
+Date: 22/1/2026
+Time: 21:27
+Phone Number: +5511999999999
+Message: Olá, Reinaldo! Teste de envio via Python.
+--------------------
+Date: 22/1/2026
+Time: 21:28
+Phone Number: +5511999999999
+Message: Olá, Reinaldo! Teste de envio via Python.
+--------------------
+Date: 22/1/2026
+Time: 21:30
+Phone Number: +5511981772847
+Message: Olá, Reinaldo! Teste de envio via Python.
+--------------------
+Date: 22/1/2026
+Time: 21:30
+Phone Number: +5511981772847
+Message: Olá, Reinaldo! Teste de envio via Python.
+--------------------
+Date: 22/1/2026
+Time: 22:5
+Phone Number: +5511963174904
+Message: Olá, Lindinalva! Teste de envio via Python.
+--------------------
+Date: 22/1/2026
+Time: 22:16
+Phone Number: +5511963174904
+Message: Olá, Sra. Lindinalva! Informamos que Foram prestado os seguintes Serviços para seu Pet 'BELINHA', Banho, Tosa Higiênica, Desembolo, Corte de Unhas, Valor Total dos Serviços R$250,00 segue QRCODE para Pagamento Via PIX, Informamos que o Código tem Validade de 4 horas após emissão, O Pet Shop Ipojucão Agradece a Confiança em Nossos Serviços. Teste de envio via Python.
+--------------------
+Date: 22/1/2026
+Time: 22:17
+Phone Number: +5511989078611
+Message: Olá, Sr. Raphael! Informamos que Foram prestado os seguintes Serviços para seu Pet 'ANÃO', Banho, Corte de Unhas, Valor Total dos Serviços R$90,00 segue QRCODE para Pagamento Via PIX, Informamos que o Código tem Validade de 4 horas após emissão, O Pet Shop Ipojucão Agradece a Confiança em Nossos Serviços. Teste de envio via Python.
+--------------------
